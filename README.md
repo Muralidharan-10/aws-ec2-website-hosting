@@ -17,3 +17,18 @@ This project demonstrates how to host a static website on an AWS EC2 instance us
 
 ## Outcome
 Successfully hosted a static website accessible through the EC2 public IP.
+
+
+## Screenshots
+
+### Apache Service Running on EC2
+![Apache Running](apache-running.png)
+
+### EC2 Instance Running (AWS Console)
+![EC2 Instance](ec2-instance-running.png)
+
+### Website Hosted on EC2
+![Website Home](website-home.png)
+
+### Website About Page
+![Website About](website-about.png)
